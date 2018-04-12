@@ -3,6 +3,11 @@ recommendMovie
 
 Spark ml의 ALS 알고리즘을 활용한 영화 추천 모델 구축
 
+  데이터
+  ------
+  * ratings(userID, movieID, rating(1 to 5))
+  * movies(movieID, title)
+
   0.분석 환경
   ----------
         1-1 하둡 클러스터(의사 분산모드)
