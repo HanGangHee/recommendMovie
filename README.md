@@ -30,3 +30,5 @@ Spark ml의 ALS 알고리즘을 활용한 영화 추천 모델 구축
   -----------------------
   
   1. [데이터 확인 및 EDA](https://www.zepl.com/UHMK7RFW2/spaces/SSJ7TIOG5/c84d738292964b0e90bb688f0e028348)
+  2. [LSA 모델 적용 및 평가](https://www.zepl.com/UHMK7RFW2/spaces/SSJ7TIOG5/033cdeb7fb074ada81b65aa5611afc2b)
+  
